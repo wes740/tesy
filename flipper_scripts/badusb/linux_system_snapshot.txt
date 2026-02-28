@@ -1,0 +1,12 @@
+REM Linux: Open terminal and run read-only system info commands
+DELAY 500
+CTRL ALT t
+DELAY 800
+STRING echo "=== Host ==="; hostname
+ENTER
+STRING echo "=== Kernel ==="; uname -a
+ENTER
+STRING echo "=== Uptime ==="; uptime
+ENTER
+STRING echo "=== IP ==="; ip -brief address
+ENTER

@@ -1,0 +1,6 @@
+REM Windows: Open CMD and run ipconfig (read-only)
+DELAY 500
+GUI r
+DELAY 300
+STRING cmd /k ipconfig
+ENTER

@@ -1,0 +1,26 @@
+REM Types a bug report template
+DELAY 500
+STRING Bug Report
+ENTER
+STRING Title: 
+ENTER
+STRING Severity: 
+ENTER
+STRING Environment: 
+ENTER
+ENTER
+STRING Steps to Reproduce:
+ENTER
+STRING 1. 
+ENTER
+STRING 2. 
+ENTER
+STRING 3. 
+ENTER
+ENTER
+STRING Expected Result:
+ENTER
+STRING Actual Result:
+ENTER
+STRING Logs/Attachments:
+ENTER

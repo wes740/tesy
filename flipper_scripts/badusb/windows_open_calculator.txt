@@ -1,0 +1,6 @@
+REM Windows: Open Calculator
+DELAY 500
+GUI r
+DELAY 300
+STRING calc
+ENTER
