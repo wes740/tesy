@@ -1,0 +1,23 @@
+REM Types a meeting notes template
+DELAY 500
+STRING Meeting Notes
+ENTER
+STRING Date: 
+ENTER
+STRING Attendees: 
+ENTER
+ENTER
+STRING Agenda
+ENTER
+STRING - 
+ENTER
+ENTER
+STRING Discussion
+ENTER
+STRING - 
+ENTER
+ENTER
+STRING Action Items
+ENTER
+STRING - [ ] Owner - Task - Due date
+ENTER

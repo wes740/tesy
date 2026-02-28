@@ -1,0 +1,19 @@
+REM Types a generic support email template in current text field
+DELAY 500
+STRING Subject: Quick status update
+ENTER
+ENTER
+STRING Hi team,
+ENTER
+STRING Here is a quick update on progress:
+ENTER
+STRING 1) Completed:
+ENTER
+STRING 2) In progress:
+ENTER
+STRING 3) Blockers:
+ENTER
+ENTER
+STRING Thanks,
+ENTER
+STRING <Your Name>

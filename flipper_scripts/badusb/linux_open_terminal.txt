@@ -1,0 +1,3 @@
+REM Linux: Open terminal (common shortcut)
+DELAY 500
+CTRL ALT t

@@ -1,0 +1,17 @@
+REM Windows: Open Notepad and type a TODO template
+DELAY 500
+GUI r
+DELAY 300
+STRING notepad
+ENTER
+DELAY 700
+STRING TODO - Today
+ENTER
+STRING - [ ] Priority task 1
+ENTER
+STRING - [ ] Priority task 2
+ENTER
+STRING - [ ] Follow up emails
+ENTER
+STRING - [ ] End-of-day summary
+ENTER

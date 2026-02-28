@@ -1,0 +1,7 @@
+REM macOS: Open Terminal via Spotlight
+DELAY 600
+GUI SPACE
+DELAY 400
+STRING Terminal
+DELAY 300
+ENTER

@@ -1,0 +1,15 @@
+REM Types a markdown checklist template
+DELAY 500
+STRING ## Checklist
+ENTER
+STRING - [ ] Item 1
+ENTER
+STRING - [ ] Item 2
+ENTER
+STRING - [ ] Item 3
+ENTER
+ENTER
+STRING ### Notes
+ENTER
+STRING - 
+ENTER
